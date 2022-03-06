@@ -1,2 +1,2 @@
-# GraafschapDemo
-Een demo repo voor een presentatie voor het Graafschap College 
+# Demonstratie voor het Graafschap College
+Deze repo bevat een simpele 404-pagina voor demonstratie doeleinden.
