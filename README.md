@@ -1,2 +1,11 @@
-# Demonstratie voor het Graafschap College
-Deze repo bevat een simpele 404-pagina voor demonstratie doeleinden.
+# GIT Demo
+Een demo repo voor een presentatie voor het Graafschap College 
+
+# Run
+Installeer node-static globaal:
+
+``npm install node-static -g``
+
+Run vervolgens het volgende NPM commando in de directory van de repository:
+
+``static``
